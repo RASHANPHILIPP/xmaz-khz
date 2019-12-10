@@ -1,6 +1,8 @@
 clear
 figlet -f future "CODED BY KHZ(adhi_philipp_arjun_shylekh_mahshook_alan_rufaid" | lolcat
+
 sleep 1
+clear
 toilet -F gay "WATCH TILL END" | lolcat
 clear
 sleep 1
